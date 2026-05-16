@@ -1,0 +1,6 @@
+{
+  "name": "Google Search Currency Game",
+  "description": "A Google Search UI clone with a hidden Geometry Dash mini-game in the currency chart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
